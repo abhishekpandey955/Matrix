@@ -9,8 +9,8 @@ export const Route = createFileRoute("/admin-setup")({
   component: AdminSetup,
 });
 
-const EXAMPLE = `Host: Replit (Spring Boot 3, Java 17)
-Database: PostgreSQL via DATABASE_URL secret
+const EXAMPLE = `Host: Cloud server (Spring Boot 3, Java 21)
+Database: PostgreSQL via environment variables (PGHOST, PGDATABASE, PGUSER, PGPASSWORD)
 Migrations: Flyway (V1__init.sql creates users + roles tables)
 Security: Spring Security, JWT, BCrypt password encoder
 Roles: PATIENT, DOCTOR, ADMIN (stored in users.role)

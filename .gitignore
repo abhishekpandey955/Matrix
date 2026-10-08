@@ -1,0 +1,29 @@
+# ============================================================
+# MediCare — Root .gitignore
+# ============================================================
+
+# ---- Environment files (NEVER commit secrets) ----
+**/.env
+**/.env.local
+**/.env.*.local
+*.local
+
+# ---- OS files ----
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+
+# ---- Editor ----
+.idea/
+*.iml
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ---- Logs ----
+*.log
+logs/

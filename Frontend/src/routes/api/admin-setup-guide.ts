@@ -10,7 +10,7 @@ const SYSTEM = `You are a security-focused DevOps assistant for a Java Spring Bo
 The operator describes their deployment. Explain the SAFEST numbered steps to create the initial ADMIN account.
 Rules: never ask for, invent, or print real passwords, tokens or keys; use placeholders like <ADMIN_PASSWORD>.
 Prefer: secrets in the host's secret manager / env vars, BCrypt-hashed password, a one-time bootstrap (e.g. CommandLineRunner gated by env flags, or a Flyway migration that inserts only a pre-computed hash read from env), disabling the bootstrap afterwards, forcing a password change, and never committing credentials.
-Tailor to the given host (e.g. Replit Secrets). Flag any risky item you notice in their config. Use Markdown, keep it under ~500 words.`;
+Tailor to the given host (e.g. server env vars / secret manager). Flag any risky item you notice in their config. Use Markdown, keep it under ~500 words.`;
 
 export const Route = createFileRoute("/api/admin-setup-guide")({
   server: {
@@ -18,12 +18,11 @@ export const Route = createFileRoute("/api/admin-setup-guide")({
       POST: async ({ request }) => {
         const parsed = Body.safeParse(await request.json().catch(() => null));
         if (!parsed.success) return new Response("Please describe your deployment (10–20000 characters).", { status: 400 });
-        const apiKey = process.env["LOVABLE_API_KEY"];
+        const apiKey = process.env["AI_API_KEY"];
         if (!apiKey) return new Response("AI is not configured.", { status: 500 });
         const provider = createOpenAI({
-          baseURL: "https://ai.gateway.lovable.dev/v1",
+          baseURL: "https://api.openai.com/v1",
           apiKey,
-          headers: { "Lovable-API-Key": apiKey, "X-Lovable-AIG-SDK": "vercel-ai-sdk" },
         });
         let upstreamError: unknown;
         const result = streamText({

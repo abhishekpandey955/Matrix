@@ -3,7 +3,7 @@
  * Base URL comes from VITE_API_BASE_URL. Auth: JWT bearer token kept IN MEMORY only.
  */
 export const API_BASE_URL = (
-  (import.meta.env["VITE_API_BASE_URL"] as string | undefined) ?? "https://medi-care-backend--platmotter81.replit.app/api"
+  (import.meta.env["VITE_API_BASE_URL"] as string | undefined) ?? ""
 ).replace(/\/$/, "");
 
 let accessToken: string | null = null;
