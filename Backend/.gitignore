@@ -1,0 +1,65 @@
+# ============================================================
+# MediCare Backend — .gitignore
+# ============================================================
+
+# ---- Maven build output ----
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+# ---- Environment files (NEVER commit secrets) ----
+.env
+.env.local
+artifacts/api-server/.env
+
+# ---- Logs ----
+logs/
+*.log
+npm-debug.log
+yarn-error.log
+
+# ---- Node / pnpm (mockup sandbox) ----
+node_modules/
+dist/
+tmp/
+out-tsc/
+*.tsbuildinfo
+
+# ---- Docker volumes / local data ----
+.postgres-data/
+
+# ---- Test coverage ----
+coverage/
+
+# ---- IDE / Editor ----
+.idea/
+*.iml
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# ---- OS files ----
+.DS_Store
+Thumbs.db
+
+# ---- Misc ----
+.sass-cache/
+connect.lock
+/libpeerconnection.log
+.cache/
+.local/
+/typings

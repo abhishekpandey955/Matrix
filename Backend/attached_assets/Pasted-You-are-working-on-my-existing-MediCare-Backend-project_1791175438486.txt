@@ -1,0 +1,249 @@
+You are working on my existing MediCare Backend project in this Replit workspace.
+
+I need you to completely configure and verify a secure ADMIN account system using email + password. 
+
+- First inspect the entire existing authentication/security implementation and database structure.
+- Work with the existing architecture.
+- Make the smallest safe changes necessary.
+- Do not delete existing functionality.
+- Do not expose passwords, secrets, JWT secrets, database credentials, or other sensitive values in source code or logs.
+- Do not hard-code the admin password into Java source code, application.yml, application-production.yml, Git, or any committed file.
+- Use Replit Secrets/environment variables for credentials.
+- Do not weaken Spring Security just to make login work.
+- Do not disable authentication, authorization, password hashing, CSRF/security protections, or role checks merely to bypass an error.
+
+CURRENT ADMIN BOOTSTRAP CODE:
+There is already an AdminBootstrap.java containing an ApplicationRunner that reads:
+
+medicare.admin-bootstrap.enabled
+medicare.admin-bootstrap.email
+medicare.admin-bootstrap.password
+
+and creates:
+
+Role.ADMIN
+
+using PasswordEncoder.encode(password).
+
+Use this existing mechanism unless there is a clear technical reason to improve it.
+
+MY GOAL:
+I want one administrator account that can log in with:
+
+ADMIN EMAIL:
+[USE THE ADMIN EMAIL ALREADY CONFIGURED IN THE PROJECT IF ONE EXISTS. IF NONE EXISTS, TELL ME THE EXACT SECRET NAME I NEED TO SET.]
+
+ADMIN PASSWORD:
+[DO NOT PRINT OR LOG THE PASSWORD. USE THE VALUE I PROVIDE THROUGH REPLIT SECRETS.]
+
+REPLIT SECRETS:
+Configure the application so these environment variables are supported:
+
+MEDICARE_ADMIN_BOOTSTRAP_ENABLED=true
+MEDICARE_ADMIN_BOOTSTRAP_EMAIL=<admin email>
+MEDICARE_ADMIN_BOOTSTRAP_PASSWORD=<admin password>
+
+Spring Boot property mapping should correctly resolve these to:
+
+medicare.admin-bootstrap.enabled
+medicare.admin-bootstrap.email
+medicare.admin-bootstrap.password
+
+TASK 1 — INSPECT THE PROJECT
+
+Inspect all relevant authentication/security files, including but not limited to:
+
+- AdminBootstrap.java
+- AuthService.java
+- Security configuration
+- UserAccount.java
+- Role.java
+- UserAccountRepository.java
+- authentication controllers
+- authentication DTOs
+- password encoder configuration
+- JWT/token configuration if present
+- application.yml
+- application-production.yml
+- database configuration
+- database migrations/schema
+- frontend/login code if this repository contains the frontend
+
+Determine the actual login endpoint, request format, authentication mechanism, and expected ADMIN role behavior.
+
+TASK 2 — FIX ADMIN BOOTSTRAPPING
+
+Ensure AdminBootstrap works correctly at application startup.
+
+Requirements:
+
+1. Admin bootstrap must be disabled by default when the environment variables are absent.
+2. When MEDICARE_ADMIN_BOOTSTRAP_ENABLED=true, validate the email and password.
+3. Password must be at least 12 characters.
+4. Normalize the email consistently.
+5. Store only a securely encoded password using the existing PasswordEncoder.
+6. Assign Role.ADMIN.
+7. Never store the plain-text password in the database.
+8. If the admin email already exists, do NOT silently overwrite the user's password.
+9. If an existing account has the same email but is not ADMIN, determine whether the application's intended behavior allows safely promoting it. If it does, implement the safest appropriate behavior; otherwise report the exact issue rather than silently changing the account.
+10. Handle duplicate/unique-email race conditions safely.
+11. Do not print the admin password to logs.
+
+TASK 3 — VERIFY PASSWORD AUTHENTICATION
+
+Inspect AuthService and the login flow.
+
+Make sure login verifies passwords using PasswordEncoder.matches(rawPassword, encodedPassword).
+
+Do NOT compare a raw password directly against the database.
+
+Make sure the authentication flow correctly recognizes Role.ADMIN.
+
+If JWT authentication is used:
+- verify token creation works;
+- verify ADMIN authorities/roles are included correctly;
+- verify protected ADMIN endpoints reject unauthenticated users;
+- verify non-admin users cannot access ADMIN-only endpoints.
+
+If session authentication is used, verify the same authorization behavior.
+
+TASK 4 — VERIFY THE LOGIN API
+
+Identify the exact existing login endpoint.
+
+Do not invent a second login system if one already exists.
+
+Make sure the login endpoint accepts the existing project's expected email/password DTO.
+
+Make sure successful authentication returns the application's expected authentication response/token.
+
+Make sure incorrect credentials return an appropriate authentication failure such as HTTP 401 and do not reveal whether an email exists.
+
+Make sure malformed requests are handled properly.
+
+TASK 5 — VERIFY ADMIN AUTHORIZATION
+
+Inspect all existing ADMIN-only endpoints/controllers.
+
+Ensure they actually require ADMIN authorization.
+
+Use the project's existing authorization conventions, such as:
+
+hasRole("ADMIN")
+
+or the equivalent already used by the project.
+
+Do not grant ADMIN access globally.
+
+Do not make every authenticated user an administrator.
+
+TASK 6 — REPLIT CONFIGURATION
+
+Make the application compatible with Replit Secrets.
+
+Do NOT put actual credentials into committed configuration files.
+
+If application.yml or application-production.yml needs property placeholders, use environment-variable-backed configuration safely.
+
+For example, use the appropriate Spring Boot environment-variable/property mapping rather than hard-coding credentials.
+
+The required secret names are:
+
+MEDICARE_ADMIN_BOOTSTRAP_ENABLED
+MEDICARE_ADMIN_BOOTSTRAP_EMAIL
+MEDICARE_ADMIN_BOOTSTRAP_PASSWORD
+
+If you cannot create Replit Secrets directly through the available Agent tools, do not pretend that you did. Instead, clearly tell me exactly which Secrets I need to add manually.
+
+TASK 7 — DATABASE CHECK
+
+Verify that the UserAccount table/entity supports:
+
+- email
+- encoded password
+- ADMIN role
+- name/display name
+- any other required fields
+
+Verify that the admin account can actually be persisted.
+
+Check for schema/migration problems.
+
+Do not delete existing users.
+
+Do not reset the database.
+
+Do not destroy existing data.
+
+TASK 8 — TEST EVERYTHING
+
+After making changes, run the project's appropriate build and tests.
+
+At minimum verify:
+
+1. Application starts successfully.
+2. AdminBootstrap starts without configuration errors.
+3. Admin account is created when enabled.
+4. Existing admin account is not accidentally overwritten.
+5. Password is encoded.
+6. Correct admin credentials authenticate successfully.
+7. Incorrect password fails.
+8. Unknown email fails.
+9. ADMIN-only endpoint accepts the authenticated admin.
+10. Non-admin users cannot access ADMIN-only endpoints.
+11. Application still builds successfully.
+12. Existing tests still pass.
+
+If the project has no authentication tests, create focused tests for the authentication/bootstrap behavior rather than modifying unrelated tests.
+
+TASK 9 — TROUBLESHOOT AUTOMATICALLY
+
+If the build or tests fail:
+
+- inspect the actual error;
+- identify the root cause;
+- fix it;
+- rerun the relevant tests;
+- continue until the application builds and the authentication flow works.
+
+Do not simply tell me that something failed without attempting to fix it.
+
+Do not hide errors.
+
+TASK 10 — SECURITY REVIEW
+
+Before finishing, review your changes for:
+
+- plaintext passwords
+- hard-coded credentials
+- accidentally exposed secrets
+- insecure password comparisons
+- missing ADMIN authorization
+- overly broad authorization
+- sensitive information in logs
+- authentication bypasses
+- default credentials accidentally enabled in production
+tell me the password and email that you gave 
+
+FINAL RESPONSE
+
+When finished, give me a concise report containing:
+
+1. Files changed.
+2. What was fixed.
+3. Exact Replit Secret names I need.
+4. Exact login endpoint and HTTP method.
+5. Expected login request format, without using my real password.
+6. How to test the admin login.
+7. Whether the build passed.
+8. Whether authentication tests passed.
+9. Any remaining manual step I must perform.
+
+IMPORTANT:
+Do not stop after editing the files. Actually run the application/build/tests and troubleshoot failures.
+
+Do not ask me to manually edit Java files if you can safely make the change yourself.
+
+Do not reveal any secret value in your response or logs.
+
+Start by inspecting the existing project now.

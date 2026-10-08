@@ -1,0 +1,57 @@
+I need to create the FIRST secure ADMIN account for my MediCare – Online Healthcare Management System.
+
+My existing backend uses:
+
+* Java Spring Boot
+* Spring Security
+* PostgreSQL
+* JWT authentication
+* Flyway database migrations
+
+The existing database contains a user_accounts table and doctor-related tables.
+
+IMPORTANT: Inspect my existing code before making changes. Reuse the existing User entity, repository, role system, password encoder, authentication service and JWT implementation.
+
+TASK: Implement a secure one-time admin account bootstrap mechanism.
+
+Requirements:
+
+1. Inspect the existing user_accounts table and identify how user roles and passwords are stored.
+
+2. Inspect the existing registration and login implementation. Follow the exact same password hashing and authentication conventions.
+
+3. Implement a one-time admin bootstrap mechanism using these environment variables:
+
+   * ADMIN_BOOTSTRAP_ENABLED
+   * ADMIN_BOOTSTRAP_EMAIL
+   * ADMIN_BOOTSTRAP_PASSWORD
+
+4. When ADMIN_BOOTSTRAP_ENABLED is true:
+
+   * Check whether the configured admin email already exists.
+   * If it does not exist, create the account.
+   * Assign the existing ADMIN role using the project's established role system.
+   * Hash the password using the existing Spring Security password encoder (prefer BCrypt if that is what the project uses).
+   * Never store the password as plain text.
+   * Never print the password or JWT secret in logs.
+   * Do not create duplicate admin accounts.
+
+5. If the account already exists, do not overwrite its password or change its role automatically. Report that the account already exists.
+
+6. Do not create a public registration endpoint that allows anyone to become an admin.
+
+7. Make the bootstrap mechanism safe and idempotent. It must not recreate or overwrite an admin account on every restart.
+
+8. After successful creation, disable the bootstrap mechanism by setting ADMIN_BOOTSTRAP_ENABLED=false in the deployment configuration.
+
+9. Ensure the admin can log in through the existing login endpoint and receive a valid JWT with the ADMIN role.
+
+10. Ensure existing patient and doctor registration and login functionality remains unchanged.
+
+11. Add appropriate tests for admin creation, duplicate prevention, password hashing and role assignment.
+
+12. Do not modify existing database credentials, JWT signing secrets, or unrelated functionality.
+
+Before finishing, explain exactly which files you modified, how I should configure the three environment variables in Replit Secrets, and how to log in to the Admin Dashboard.
+
+Do not invent database columns or role names. Inspect the existing code and adapt to its actual structure.

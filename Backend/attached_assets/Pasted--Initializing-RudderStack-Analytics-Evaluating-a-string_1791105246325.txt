@@ -1,0 +1,2421 @@
+ Initializing RudderStack Analytics
+ Evaluating a string as JavaScript violates the following Content Security Policy directive because 'unsafe-eval' is not an allowed source of script: "script-src 'nonce-OClAXDuZiueUNvlPaYAEeg==' 'strict-dynamic' 'wasm-unsafe-eval' 'self' 'report-sample'".
+ The action has been blocked.
+connect.facebook.net/en_US/fbevents.js:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+www.googletagmanager.com/?id=AW-16786179175:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+bat.bing.com/bat.js:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+snap.licdn.com/li.lms-analytics/insight.min.js:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+www.redditstatic.com/ads/pixel.js:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+pixel.byspotify.com/ping.min.js:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+js.hsadspixel.net/pixels.js:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+js.hs-analytics.net/analytics/1791096900000/50723964.js:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+js.hs-banner.com/v2/50723964/banner.js:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+o4506071217143808.ingest.us.sentry.io/api/4506071220944896/envelope/?sentry_version=7&sentry_key=58ff8fddcbe1303f19bc19fbfed46f0f&sentry_client=sentry.javascript.browser%2F10.70.0:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+o4506071217143808.ingest.us.sentry.io/api/4506071220944896/envelope/?sentry_version=7&sentry_key=58ff8fddcbe1303f19bc19fbfed46f0f&sentry_client=sentry.javascript.browser%2F10.70.0:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+utt.impactcdn.com/A7032529-0864-4472-a67e-73d6298e898b1.js:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+  RS SDK  DeviceModeDestinationsPlugin:: Failed to get the ready status from integration for destination "Facebook-Pixel___31beY28FWhkoFVcaRnPRHjZgoHc" - A timeout of 11000 ms occurred
+  RS SDK  DeviceModeDestinationsPlugin:: Failed to get the ready status from integration for destination "Google-Analytics-4-(GA4)___32YjYP1mCxsEfzMEI0TnoWD5Q4n" - A timeout of 11000 ms occurred
+  RS SDK  DeviceModeDestinationsPlugin:: Failed to get the ready status from integration for destination "Bing-Ads___345DclO7yw5xFnS1QXmAlYz7DGE" - A timeout of 11000 ms occurred
+  RS SDK  DeviceModeDestinationsPlugin:: Failed to get the ready status from integration for destination "HubSpot___3A6qn3ZT7oKBDeyO7dI9WRVRro7" - A timeout of 11000 ms occurred
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK  DeviceModeDestinationsPlugin:: Failed to get the ready status from integration for destination "Reddit-Pixel___3HJH0fJ5cv5dDfwgk1fYNjJfMY4" - A timeout of 11000 ms occurred
+pt.ispot.tv/v2/TC-12271-2.gif?app=web&type=sitevisit&rnd=1791097027082:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+o4506071217143808.ingest.us.sentry.io/api/4506071220944896/envelope/?sentry_version=7&sentry_key=58ff8fddcbe1303f19bc19fbfed46f0f&sentry_client=sentry.javascript.browser%2F10.70.0:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+o4506071217143808.ingest.us.sentry.io/api/4506071220944896/envelope/?sentry_version=7&sentry_key=58ff8fddcbe1303f19bc19fbfed46f0f&sentry_client=sentry.javascript.browser%2F10.70.0:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+pt.ispot.tv/v2/TC-12271-2.gif?app=web&type=sitevisit&rnd=1791097069314:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+pt.ispot.tv/v2/TC-12271-2.gif?app=web&type=sitevisit&rnd=1791097069984:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+o4506071217143808.ingest.us.sentry.io/api/4506071220944896/envelope/?sentry_version=7&sentry_key=58ff8fddcbe1303f19bc19fbfed46f0f&sentry_client=sentry.javascript.browser%2F10.70.0:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+o4506071217143808.ingest.us.sentry.io/api/4506071220944896/envelope/?sentry_version=7&sentry_key=58ff8fddcbe1303f19bc19fbfed46f0f&sentry_client=sentry.javascript.browser%2F10.70.0:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+o4506071217143808.ingest.us.sentry.io/api/4506071220944896/envelope/?sentry_version=7&sentry_key=58ff8fddcbe1303f19bc19fbfed46f0f&sentry_client=sentry.javascript.browser%2F10.70.0:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+o4506071217143808.ingest.us.sentry.io/api/4506071220944896/envelope/?sentry_version=7&sentry_key=58ff8fddcbe1303f19bc19fbfed46f0f&sentry_client=sentry.javascript.browser%2F10.70.0:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+o4506071217143808.ingest.us.sentry.io/api/4506071220944896/envelope/?sentry_version=7&sentry_key=58ff8fddcbe1303f19bc19fbfed46f0f&sentry_client=sentry.javascript.browser%2F10.70.0:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+o4506071217143808.ingest.us.sentry.io/api/4506071220944896/envelope/?sentry_version=7&sentry_key=58ff8fddcbe1303f19bc19fbfed46f0f&sentry_client=sentry.javascript.browser%2F10.70.0:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+o4506071217143808.ingest.us.sentry.io/api/4506071220944896/envelope/?sentry_version=7&sentry_key=58ff8fddcbe1303f19bc19fbfed46f0f&sentry_client=sentry.javascript.browser%2F10.70.0:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+o4506071217143808.ingest.us.sentry.io/api/4506071220944896/envelope/?sentry_version=7&sentry_key=58ff8fddcbe1303f19bc19fbfed46f0f&sentry_client=sentry.javascript.browser%2F10.70.0:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+o4506071217143808.ingest.us.sentry.io/api/4506071220944896/envelope/?sentry_version=7&sentry_key=58ff8fddcbe1303f19bc19fbfed46f0f&sentry_client=sentry.javascript.browser%2F10.70.0:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+o4506071217143808.ingest.us.sentry.io/api/4506071220944896/envelope/?sentry_version=7&sentry_key=58ff8fddcbe1303f19bc19fbfed46f0f&sentry_client=sentry.javascript.browser%2F10.70.0:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+o4506071217143808.ingest.us.sentry.io/api/4506071220944896/envelope/?sentry_version=7&sentry_key=58ff8fddcbe1303f19bc19fbfed46f0f&sentry_client=sentry.javascript.browser%2F10.70.0:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+o4506071217143808.ingest.us.sentry.io/api/4506071220944896/envelope/?sentry_version=7&sentry_key=58ff8fddcbe1303f19bc19fbfed46f0f&sentry_client=sentry.javascript.browser%2F10.70.0:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+o4506071217143808.ingest.us.sentry.io/api/4506071220944896/envelope/?sentry_version=7&sentry_key=58ff8fddcbe1303f19bc19fbfed46f0f&sentry_client=sentry.javascript.browser%2F10.70.0:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+o4506071217143808.ingest.us.sentry.io/api/4506071220944896/envelope/?sentry_version=7&sentry_key=58ff8fddcbe1303f19bc19fbfed46f0f&sentry_client=sentry.javascript.browser%2F10.70.0:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+o4506071217143808.ingest.us.sentry.io/api/4506071220944896/envelope/?sentry_version=7&sentry_key=58ff8fddcbe1303f19bc19fbfed46f0f&sentry_client=sentry.javascript.browser%2F10.70.0:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+ [perf] mark editor:nav-start @ 1584877.1ms
+ [perf] measure editor:nav:click-to-start: 156.2ms
+pt.ispot.tv/v2/TC-12271-2.gif?app=web&type=sitevisit&rnd=1791098598040:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+o4506071217143808.ingest.us.sentry.io/api/4506071220944896/envelope/?sentry_version=7&sentry_key=58ff8fddcbe1303f19bc19fbfed46f0f&sentry_client=sentry.javascript.browser%2F10.70.0:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+o4506071217143808.ingest.us.sentry.io/api/4506071220944896/envelope/?sentry_version=7&sentry_key=58ff8fddcbe1303f19bc19fbfed46f0f&sentry_client=sentry.javascript.browser%2F10.70.0:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+ [perf] mark editor:loader-flags-settled @ 1588569.2ms
+ [perf] mark editor:loader-shell-settled @ 1588573.8ms
+ [perf] mark editor:workspace-body-first @ 1588699.5ms
+ [perf] measure editor:workspace:nav-to-body-first: 3822.4ms
+ [perf] mark editor:workspace-membership-first @ 1588700.1ms
+ [perf] measure editor:workspace:nav-to-membership-first: 3823.1ms
+ [perf] mark editor:shell-rendered @ 1588737.5ms
+ [perf] measure editor:trunk:to-shell-rendered: 3860.5ms
+ [perf] mark editor:desktop-content-mounted @ 1589285.1ms
+ [perf] measure editor:trunk:to-desktop-content: 4408.0ms
+ [perf] measure editor:chat:nav-to-ws-connect: 4426.1ms
+ [perf] mark editor:permissions-resolved @ 1589318.4ms
+ [perf] measure editor:trunk:to-permissions-resolved: 4441.4ms
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+ [perf] measure editor:chat:nav-to-interactive: 4980.8ms
+ [perf] mark editor:project-data-first @ 1590182.9ms
+ [perf] measure editor:project:nav-to-data: 5305.8ms
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+ [perf] measure editor:chat:nav-to-initial-data: 6092.8ms
+ [perf] measure editor:chat:fetch-to-data: 1668.4ms
+ [perf] measure editor:chat:fetch-to-response: 1667.2ms
+ [perf] measure editor:chat:response-to-data: 1.2ms
+ [perf] measure editor:chat:nav-to-first-history: 6265.5ms
+ [perf] measure editor:chat:ws-to-first-data: 1839.4ms
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+ [perf] measure editor:chat:nav-to-visible: 8164.0ms
+ [perf] measure editor:chat:data-to-visible: 1898.5ms
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+ WebSocket connection to 'wss://d6426161-1a27-4c21-bca6-1f87f536a461.lovableproject.com/' failed: 
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+ Unrecognized feature: 'vr'.
+ Unrecognized feature: 'ambient-light-sensor'.
+ Unrecognized feature: 'battery'.
+An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing.
+ [perf] measure editor:preview:nav-to-visible: 17233.6ms
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('<URL>') does not match the recipient window's origin ('<URL>').
+Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('<URL>') does not match the recipient window's origin ('<URL>').
+Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('<URL>') does not match the recipient window's origin ('<URL>').
+Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('<URL>') does not match the recipient window's origin ('<URL>').
+Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('<URL>') does not match the recipient window's origin ('<URL>').
+Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('<URL>') does not match the recipient window's origin ('<URL>').
+Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('<URL>') does not match the recipient window's origin ('<URL>').
+Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('<URL>') does not match the recipient window's origin ('<URL>').
+Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('<URL>') does not match the recipient window's origin ('<URL>').
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+o4506071217143808.ingest.us.sentry.io/api/4506071220944896/envelope/?sentry_version=7&sentry_key=58ff8fddcbe1303f19bc19fbfed46f0f&sentry_client=sentry.javascript.browser%2F10.70.0:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+dev-server:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+ WebSocket connection to 'wss://d6426161-1a27-4c21-bca6-1f87f536a461.lovableproject.com/' failed: 
+ devserver_websocket_error 
+ devserver_websocket_error 
+ WebSocket connection to 'wss://d6426161-1a27-4c21-bca6-1f87f536a461.lovableproject.com/' failed: 
+ devserver_websocket_error 
+ devserver_websocket_error 
+ WebSocket connection to 'wss://d6426161-1a27-4c21-bca6-1f87f536a461.lovableproject.com/' failed: 
+ devserver_websocket_error 
+ devserver_websocket_error 
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+transform:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+id-preview--d6426161-1a27-4c21-bca6-1f87f536a461.lovable.app/favicon.ico?__lovable_receipt=mat_18h8n6fs1697et6r00mc32990h&v=00c29a47:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+transform:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+transform:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+  RS SDK  DeviceModeTransformationPlugin:: [Destination: Google Ads with id "32YgnplxHljwTfNugqDSYkIJ2Af"].Transformation request failed with status: 0. Retries exhausted. Dropping the event.
+  RS SDK  DeviceModeTransformationPlugin:: [Destination: DCM Floodlight with id "3FDDKmfdkqSldA3JJp8vq9WThDM"].Transformation request failed with status: 0. Retries exhausted. Dropping the event.
+transform:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+transform:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+transform:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+transform:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+batch:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+  RS SDK  DeviceModeTransformationPlugin:: [Destination: Google Ads with id "32YgnplxHljwTfNugqDSYkIJ2Af"].Transformation request failed with status: 0. Retries exhausted. Dropping the event.
+  RS SDK  DeviceModeTransformationPlugin:: [Destination: DCM Floodlight with id "3FDDKmfdkqSldA3JJp8vq9WThDM"].Transformation request failed with status: 0. Retries exhausted. Dropping the event.
+transform:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+batch:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+batch:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+batch:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+batch:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+batch:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+ WebSocket connection to 'wss://s-gke-usc1-nssi3-43.firebaseio.com/.ws?v=5&ls=9CfcP21TyMiN91eLqKEviXDlJUSQjn1J&p=1:288002387414:web:231da37c38c486ca814877&ns=gpt-engineer-390607-default-rtdb' failed: 
+batch:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+/_serverFn/1cfa5e993551accfed5cd0a684fb78ea1a734c6715b5b2aff572fc7624e6b1cd:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+api.lovable.dev/user/workspaces:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/lovable.freebuildhour.v1.FreeBuildHourService/GetStatus:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/surveys/active:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/permissions?workspaceId=5efc30bc448795dc5a57:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/workspaces/5efc30bc448795dc5a57/enterprise-self-serve-offer:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/workspaces/5efc30bc448795dc5a57/chats?filter=all&sort=latest&limit=8&offset=0:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/workspaces/5efc30bc448795dc5a57/auto-topup/status:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/workspaces/5efc30bc448795dc5a57/contract-status:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/workspaces/5efc30bc448795dc5a57/folders:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/banners/active?workspace_id=5efc30bc448795dc5a57:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/workspaces/5efc30bc448795dc5a57/lovable.workspaceclaims.v1.WorkspaceClaimNoticeService/GetPendingClaim:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/workspaces/5efc30bc448795dc5a57/credit-balance:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/workspaces/5efc30bc448795dc5a57/user-monthly-usage:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+ Error fetching user monthly usage: 
+api.lovable.dev/workspaces/5efc30bc448795dc5a57/connectors/standard:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/v2/user/projects/starred?workspace_id=5efc30bc448795dc5a57&sort_by=last_viewed_at&sort_order=desc&limit=20&offset=0:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/workspaces/5efc30bc448795dc5a57/chats?filter=starred&sort=latest&limit=20&offset=0&include_resources=true:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/workspaces/5efc30bc448795dc5a57/memberships/search?status=active&limit=1:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/user/organizations:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/workspaces/5efc30bc448795dc5a57/inbox/summary:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+project-invitations:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/beta/tester-self/my-invites:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/workspaces/5efc30bc448795dc5a57/connectors/seamless:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/v2/workspaces/5efc30bc448795dc5a57/projects?sort_by=last_viewed_at&sort_order=desc&viewed_by_me=true&limit=20:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/workspaces/5efc30bc448795dc5a57/chats?filter=all&sort=latest&limit=32&offset=0&include_resources=true:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/permissions?projectId=d6426161-1a27-4c21-bca6-1f87f536a461:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/projects/d6426161-1a27-4c21-bca6-1f87f536a461/drafts:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/projects/d6426161-1a27-4c21-bca6-1f87f536a461/workspace:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/projects/d6426161-1a27-4c21-bca6-1f87f536a461/permissions:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/projects/d6426161-1a27-4c21-bca6-1f87f536a461/collaborators:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+ Failed to fetch collaborators 
+artifacts:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/projects/d6426161-1a27-4c21-bca6-1f87f536a461/drafts?include_merged=true:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/projects/d6426161-1a27-4c21-bca6-1f87f536a461/presence:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+mcp-server-info:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/workspaces/5efc30bc448795dc5a57/projects/d6426161-1a27-4c21-bca6-1f87f536a461/gitsync:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/projects/d6426161-1a27-4c21-bca6-1f87f536a461/integrations/shopify:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/projects/d6426161-1a27-4c21-bca6-1f87f536a461/mark-viewed:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/projects/d6426161-1a27-4c21-bca6-1f87f536a461/cloud/config:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/workspaces/5efc30bc448795dc5a57/credit-limits?limit=50&project_id=d6426161-1a27-4c21-bca6-1f87f536a461:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/workspaces/5efc30bc448795dc5a57/cloud-grant-status:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/workspaces/5efc30bc448795dc5a57/ai-grant-status:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/projects/d6426161-1a27-4c21-bca6-1f87f536a461/integrations/ai_gateway:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/workspaces/5efc30bc448795dc5a57/balance/auto-topup:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/projects/d6426161-1a27-4c21-bca6-1f87f536a461/health-check-findings/brief:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/workspaces/5efc30bc448795dc5a57/connections/standard?project_id=d6426161-1a27-4c21-bca6-1f87f536a461:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/projects/d6426161-1a27-4c21-bca6-1f87f536a461/email/migration:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/projects/d6426161-1a27-4c21-bca6-1f87f536a461/edits?bookmarked=true:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/workspaces/5efc30bc448795dc5a57/projects/d6426161-1a27-4c21-bca6-1f87f536a461/published-access:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/projects/d6426161-1a27-4c21-bca6-1f87f536a461/security/hvt-status:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+ Failed to mark project viewed 
+ Failed to mark project viewed 
+ Failed to load health check brief 
+ WebSocket connection to 'wss://api.lovable.dev/realtime' failed: 
+gpt-engineer-390607-default-rtdb.firebaseio.com/.lp?start=t&ser=49295365&cb=1&v=5&ls=9CfcP21TyMiN91eLqKEviXDlJUSQjn1J&p=1:288002387414:web:231da37c38c486ca814877:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+ WebSocket connection to 'wss://d6426161-1a27-4c21-bca6-1f87f536a461.lovableproject.com/' failed: WebSocket is closed before the connection is established.
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+ preview_iframe_stuck_recovery_exhausted 
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+ Code WebSocket closed prematurely 
+ Code WebSocket closed prematurely 
+ [tr-ws] server error 
+ Code WebSocket closed prematurely 
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+ [tr-ws] server error 
+ Code WebSocket closed prematurely 
+ Code WebSocket closed prematurely 
+dev-server:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+dev-server:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+dev-server:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+ WebSocket connection to 'wss://d6426161-1a27-4c21-bca6-1f87f536a461.lovableproject.com/' failed: 
+ devserver_websocket_error 
+ devserver_websocket_error 
+dev-server:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+ WebSocket connection to 'wss://d6426161-1a27-4c21-bca6-1f87f536a461.lovableproject.com/' failed: 
+ devserver_websocket_error 
+ devserver_websocket_error 
+ WebSocket connection to 'wss://d6426161-1a27-4c21-bca6-1f87f536a461.lovableproject.com/' failed: 
+ devserver_websocket_error 
+ devserver_websocket_error 
+dev-server:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+ WebSocket connection to 'wss://d6426161-1a27-4c21-bca6-1f87f536a461.lovableproject.com/' failed: 
+transform:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+transform:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+ WebSocket connection to 'wss://d6426161-1a27-4c21-bca6-1f87f536a461.lovableproject.com/' failed: 
+transform:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+ WebSocket connection to 'wss://d6426161-1a27-4c21-bca6-1f87f536a461.lovableproject.com/' failed: 
+  RS SDK  DeviceModeTransformationPlugin:: [Destination: Google Ads with id "32YgnplxHljwTfNugqDSYkIJ2Af"].Transformation request failed with status: 0. Retries exhausted. Dropping the event.
+  RS SDK  DeviceModeTransformationPlugin:: [Destination: DCM Floodlight with id "3FDDKmfdkqSldA3JJp8vq9WThDM"].Transformation request failed with status: 0. Retries exhausted. Dropping the event.
+transform:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+ WebSocket connection to 'wss://d6426161-1a27-4c21-bca6-1f87f536a461.lovableproject.com/' failed: 
+ WebSocket connection to 'wss://d6426161-1a27-4c21-bca6-1f87f536a461.lovableproject.com/' failed: 
+  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+transform:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+ WebSocket connection to 'wss://d6426161-1a27-4c21-bca6-1f87f536a461.lovableproject.com/' failed: 
+transform:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+transform:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+ WebSocket connection to 'wss://d6426161-1a27-4c21-bca6-1f87f536a461.lovableproject.com/' failed: 
+batch:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+extend-lease:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+ Native network error: Failed to fetch (api.lovable.dev) 
+  RS SDK  DeviceModeTransformationPlugin:: [Destination: Google Ads with id "32YgnplxHljwTfNugqDSYkIJ2Af"].Transformation request failed with status: 0. Retries exhausted. Dropping the event.
+  RS SDK  DeviceModeTransformationPlugin:: [Destination: DCM Floodlight with id "3FDDKmfdkqSldA3JJp8vq9WThDM"].Transformation request failed with status: 0. Retries exhausted. Dropping the event.
+transform:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+ WebSocket connection to 'wss://d6426161-1a27-4c21-bca6-1f87f536a461.lovableproject.com/' failed: 
+batch:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+ WebSocket connection to 'wss://d6426161-1a27-4c21-bca6-1f87f536a461.lovableproject.com/' failed: 
+batch:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+ WebSocket connection to 'wss://d6426161-1a27-4c21-bca6-1f87f536a461.lovableproject.com/' failed: 
+batch:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+ WebSocket connection to 'wss://d6426161-1a27-4c21-bca6-1f87f536a461.lovableproject.com/' failed: 
+ WebSocket connection to 'wss://d6426161-1a27-4c21-bca6-1f87f536a461.lovableproject.com/' failed: 
+ WebSocket connection to 'wss://d6426161-1a27-4c21-bca6-1f87f536a461.lovableproject.com/' failed: 
+dev-server:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+dev-server:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+ WebSocket connection to 'wss://d6426161-1a27-4c21-bca6-1f87f536a461.lovableproject.com/' failed: 
+batch:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+dev-server:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+ WebSocket connection to 'wss://d6426161-1a27-4c21-bca6-1f87f536a461.lovableproject.com/' failed: 
+ WebSocket connection to 'wss://d6426161-1a27-4c21-bca6-1f87f536a461.lovableproject.com/' failed: 
+dev-server:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+ WebSocket connection to 'wss://d6426161-1a27-4c21-bca6-1f87f536a461.lovableproject.com/' failed: 
+ WebSocket connection to 'wss://d6426161-1a27-4c21-bca6-1f87f536a461.lovableproject.com/' failed: 
+ WebSocket connection to 'wss://d6426161-1a27-4c21-bca6-1f87f536a461.lovableproject.com/' failed: 
+ WebSocket connection to 'wss://d6426161-1a27-4c21-bca6-1f87f536a461.lovableproject.com/' failed: 
+batch:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+ WebSocket connection to 'wss://d6426161-1a27-4c21-bca6-1f87f536a461.lovableproject.com/' failed: 
+ hmr_websocket_reconnect_limit_reached 
+ WebSocket connection to 'wss://d6426161-1a27-4c21-bca6-1f87f536a461.lovableproject.com/' failed: 
+dev-server:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+dev-server:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+dev-server:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+extend-lease:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+ Native network error: Failed to fetch (api.lovable.dev) 
+dev-server:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+batch:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+ WebSocket connection to 'wss://d6426161-1a27-4c21-bca6-1f87f536a461.lovableproject.com/' failed: 
+ WebSocket connection to 'wss://d6426161-1a27-4c21-bca6-1f87f536a461.lovableproject.com/' failed: 
+ WebSocket connection to 'wss://s-gke-usc1-nssi3-43.firebaseio.com/.ws?v=5&ls=HZCUbjrVHCFSbBXTMRDb4iCllUQwhihb&p=1:288002387414:web:231da37c38c486ca814877&ns=gpt-engineer-390607-default-rtdb' failed: 
+dev-server:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+dev-server:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+ WebSocket connection to 'wss://d6426161-1a27-4c21-bca6-1f87f536a461.lovableproject.com/' failed: 
+dev-server:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+dev-server:1  Failed to load resource: net::ERR_INTERNET_DISCONNECTED
+/_serverFn/1cfa5e993551accfed5cd0a684fb78ea1a734c6715b5b2aff572fc7624e6b1cd:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+/_serverFn/a09c5412283aea452ae7f0a17327b711f8b1c68342efa291ad64a6bc1a62890c:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+api.lovable.dev/user/workspaces:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/lovable.freebuildhour.v1.FreeBuildHourService/GetStatus:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/surveys/active:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/permissions?workspaceId=5efc30bc448795dc5a57:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/workspaces/5efc30bc448795dc5a57/enterprise-self-serve-offer:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/workspaces/5efc30bc448795dc5a57/chats?filter=all&sort=latest&limit=8&offset=0:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/workspaces/5efc30bc448795dc5a57/auto-topup/status:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/workspaces/5efc30bc448795dc5a57/contract-status:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/workspaces/5efc30bc448795dc5a57/folders:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/banners/active?workspace_id=5efc30bc448795dc5a57:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/workspaces/5efc30bc448795dc5a57/lovable.workspaceclaims.v1.WorkspaceClaimNoticeService/GetPendingClaim:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/workspaces/5efc30bc448795dc5a57/credit-balance:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+ Native network error: Failed to fetch (api.lovable.dev) 
+api.lovable.dev/workspaces/5efc30bc448795dc5a57/user-monthly-usage:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+vendor-sentry-PkhiCAtt.js:15 Native network error: Failed to fetch (api.lovable.dev) Object
+vendor-sentry-PkhiCAtt.js:15 Error fetching user monthly usage: APIError: Connection error
+    at Gl (app-shared--scMTec_.js:3:107444)
+    at QU (app-shared--scMTec_.js:3:109836)
+    at UU (app-shared--scMTec_.js:3:107179)
+    at PU.errorHandler (app-shared--scMTec_.js:3:115738)
+    at PU.processError (app-shared--scMTec_.js:3:103331)
+    at PU.request (app-shared--scMTec_.js:3:104372)
+    at async h$.withRetry (app-shared--scMTec_.js:3:116483)
+    at async queryFn (dashboard-shared-CjM5y8X0.js:20:48883)
+(anonymous) @ vendor-sentry-PkhiCAtt.js:15
+api.lovable.dev/workspaces/5efc30bc448795dc5a57/connectors/standard:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+vendor-sentry-PkhiCAtt.js:15 Native network error: Failed to fetch (api.lovable.dev) Object
+api.lovable.dev/v2/user/projects/starred?workspace_id=5efc30bc448795dc5a57&sort_by=last_viewed_at&sort_order=desc&limit=20&offset=0:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+vendor-sentry-PkhiCAtt.js:15 Native network error: Failed to fetch (api.lovable.dev) Object
+api.lovable.dev/workspaces/5efc30bc448795dc5a57/chats?filter=starred&sort=latest&limit=20&offset=0&include_resources=true:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+vendor-sentry-PkhiCAtt.js:15 Native network error: Failed to fetch (api.lovable.dev) Object
+api.lovable.dev/workspaces/5efc30bc448795dc5a57/memberships/search?status=active&limit=1:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+vendor-sentry-PkhiCAtt.js:15 Native network error: Failed to fetch (api.lovable.dev) Object
+api.lovable.dev/user/organizations:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+vendor-sentry-PkhiCAtt.js:15 Native network error: Failed to fetch (api.lovable.dev) Object
+api.lovable.dev/workspaces/5efc30bc448795dc5a57/inbox/summary:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+vendor-sentry-PkhiCAtt.js:15 Native network error: Failed to fetch (api.lovable.dev) Object
+project-invitations:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+vendor-sentry-PkhiCAtt.js:15 Native network error: Failed to fetch (api.lovable.dev) Object
+api.lovable.dev/beta/tester-self/my-invites:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+vendor-sentry-PkhiCAtt.js:15 Native network error: Failed to fetch (api.lovable.dev) Object
+api.lovable.dev/workspaces/5efc30bc448795dc5a57/connectors/seamless:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+vendor-sentry-PkhiCAtt.js:15 Native network error: Failed to fetch (api.lovable.dev) Object
+api.lovable.dev/v2/workspaces/5efc30bc448795dc5a57/projects?sort_by=last_viewed_at&sort_order=desc&viewed_by_me=true&limit=20:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+vendor-sentry-PkhiCAtt.js:15 Native network error: Failed to fetch (api.lovable.dev) Object
+api.lovable.dev/workspaces/5efc30bc448795dc5a57/chats?filter=all&sort=latest&limit=32&offset=0&include_resources=true:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+vendor-sentry-PkhiCAtt.js:15 Native network error: Failed to fetch (api.lovable.dev) Object
+api.lovable.dev/permissions?projectId=d6426161-1a27-4c21-bca6-1f87f536a461:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+vendor-sentry-PkhiCAtt.js:15 Native network error: Failed to fetch (api.lovable.dev) Object
+api.lovable.dev/projects/d6426161-1a27-4c21-bca6-1f87f536a461/drafts:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+vendor-sentry-PkhiCAtt.js:15 Native network error: Failed to fetch (api.lovable.dev) Object
+api.lovable.dev/projects/d6426161-1a27-4c21-bca6-1f87f536a461/workspace:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+vendor-sentry-PkhiCAtt.js:15 Native network error: Failed to fetch (api.lovable.dev) Object
+api.lovable.dev/projects/d6426161-1a27-4c21-bca6-1f87f536a461/permissions:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+vendor-sentry-PkhiCAtt.js:15 Native network error: Failed to fetch (api.lovable.dev) Object
+api.lovable.dev/projects/d6426161-1a27-4c21-bca6-1f87f536a461/collaborators:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+vendor-sentry-PkhiCAtt.js:15 Native network error: Failed to fetch (api.lovable.dev) Object
+vendor-sentry-PkhiCAtt.js:15 Failed to fetch collaborators Object
+(anonymous) @ vendor-sentry-PkhiCAtt.js:15
+artifacts:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+vendor-sentry-PkhiCAtt.js:15 Native network error: Failed to fetch (api.lovable.dev) Object
+api.lovable.dev/projects/d6426161-1a27-4c21-bca6-1f87f536a461/drafts?include_merged=true:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+vendor-sentry-PkhiCAtt.js:15 Native network error: Failed to fetch (api.lovable.dev) Object
+api.lovable.dev/projects/d6426161-1a27-4c21-bca6-1f87f536a461/presence:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+vendor-sentry-PkhiCAtt.js:15 Native network error: Failed to fetch (api.lovable.dev) Object
+mcp-server-info:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+vendor-sentry-PkhiCAtt.js:15 Native network error: Failed to fetch (api.lovable.dev) Object
+api.lovable.dev/workspaces/5efc30bc448795dc5a57/projects/d6426161-1a27-4c21-bca6-1f87f536a461/gitsync:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+vendor-sentry-PkhiCAtt.js:15 Native network error: Failed to fetch (api.lovable.dev) Object
+api.lovable.dev/projects/d6426161-1a27-4c21-bca6-1f87f536a461/integrations/shopify:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+vendor-sentry-PkhiCAtt.js:15 Native network error: Failed to fetch (api.lovable.dev) Object
+api.lovable.dev/projects/d6426161-1a27-4c21-bca6-1f87f536a461/mark-viewed:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+vendor-sentry-PkhiCAtt.js:15 Native network error: Failed to fetch (api.lovable.dev) Object
+api.lovable.dev/projects/d6426161-1a27-4c21-bca6-1f87f536a461/cloud/config:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+vendor-sentry-PkhiCAtt.js:15 Native network error: Failed to fetch (api.lovable.dev) Object
+api.lovable.dev/workspaces/5efc30bc448795dc5a57/credit-limits?limit=50&project_id=d6426161-1a27-4c21-bca6-1f87f536a461:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+vendor-sentry-PkhiCAtt.js:15 Native network error: Failed to fetch (api.lovable.dev) Object
+api.lovable.dev/workspaces/5efc30bc448795dc5a57/cloud-grant-status:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+vendor-sentry-PkhiCAtt.js:15 Native network error: Failed to fetch (api.lovable.dev) Object
+api.lovable.dev/workspaces/5efc30bc448795dc5a57/ai-grant-status:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+vendor-sentry-PkhiCAtt.js:15 Native network error: Failed to fetch (api.lovable.dev) Object
+api.lovable.dev/projects/d6426161-1a27-4c21-bca6-1f87f536a461/integrations/ai_gateway:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+vendor-sentry-PkhiCAtt.js:15 Native network error: Failed to fetch (api.lovable.dev) Object
+api.lovable.dev/workspaces/5efc30bc448795dc5a57/balance/auto-topup:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+vendor-sentry-PkhiCAtt.js:15 Native network error: Failed to fetch (api.lovable.dev) Object
+api.lovable.dev/projects/d6426161-1a27-4c21-bca6-1f87f536a461/health-check-findings/brief:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+vendor-sentry-PkhiCAtt.js:15 Native network error: Failed to fetch (api.lovable.dev) Object
+api.lovable.dev/workspaces/5efc30bc448795dc5a57/connections/standard?project_id=d6426161-1a27-4c21-bca6-1f87f536a461:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+vendor-sentry-PkhiCAtt.js:15 Native network error: Failed to fetch (api.lovable.dev) Object
+api.lovable.dev/projects/d6426161-1a27-4c21-bca6-1f87f536a461/email/migration:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+vendor-sentry-PkhiCAtt.js:15 Native network error: Failed to fetch (api.lovable.dev) Object
+api.lovable.dev/projects/d6426161-1a27-4c21-bca6-1f87f536a461/edits?bookmarked=true:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+vendor-sentry-PkhiCAtt.js:15 Native network error: Failed to fetch (api.lovable.dev) Object
+api.lovable.dev/workspaces/5efc30bc448795dc5a57/projects/d6426161-1a27-4c21-bca6-1f87f536a461/published-access:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+vendor-sentry-PkhiCAtt.js:15 Native network error: Failed to fetch (api.lovable.dev) Object
+api.lovable.dev/projects/d6426161-1a27-4c21-bca6-1f87f536a461/security/hvt-status:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+vendor-sentry-PkhiCAtt.js:15 Native network error: Failed to fetch (api.lovable.dev) Object
+PreviewProvider-BG_pe1nb.js:5 WebSocket connection to 'wss://d6426161-1a27-4c21-bca6-1f87f536a461.lovableproject.com/' failed: 
+an @ PreviewProvider-BG_pe1nb.js:5
+vendor-sentry-PkhiCAtt.js:15 Failed to mark project viewed Object
+(anonymous) @ vendor-sentry-PkhiCAtt.js:15
+vendor-sentry-PkhiCAtt.js:15 Failed to mark project viewed Object
+(anonymous) @ vendor-sentry-PkhiCAtt.js:15
+vendor-sentry-PkhiCAtt.js:15 Failed to load health check brief Object
+(anonymous) @ vendor-sentry-PkhiCAtt.js:15
+app-shared--scMTec_.js:3 WebSocket connection to 'wss://api.lovable.dev/realtime' failed: 
+connect @ app-shared--scMTec_.js:3
+gpt-engineer-390607-default-rtdb.firebaseio.com/.lp?start=t&ser=56255020&cb=3&v=5&ls=HZCUbjrVHCFSbBXTMRDb4iCllUQwhihb&p=1:288002387414:web:231da37c38c486ca814877:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+rs.lovable.dev/v1/batch:1  Failed to load resource: net::ERR_NAME_NOT_RESOLVED
+PreviewProvider-BG_pe1nb.js:5 WebSocket connection to 'wss://d6426161-1a27-4c21-bca6-1f87f536a461.lovableproject.com/' failed: 
+an @ PreviewProvider-BG_pe1nb.js:5
+d6426161-1a27-4c21-bca6-1f87f536a461.lovableproject.com/_sandbox/dev-server:1  Failed to load resource: the server responded with a status of 404 ()
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+vendor-sentry-PkhiCAtt.js:15 Failed to mark project viewed Object
+(anonymous) @ vendor-sentry-PkhiCAtt.js:15
+vendor-sentry-PkhiCAtt.js:15 Failed to mark project viewed Object
+(anonymous) @ vendor-sentry-PkhiCAtt.js:15
+vendor-sentry-PkhiCAtt.js:15 Failed to mark project viewed Object
+(anonymous) @ vendor-sentry-PkhiCAtt.js:15
+vendor-sentry-PkhiCAtt.js:15 Failed to mark project viewed Object
+(anonymous) @ vendor-sentry-PkhiCAtt.js:15
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+PreviewProvider-BG_pe1nb.js:5 WebSocket connection to 'wss://d6426161-1a27-4c21-bca6-1f87f536a461.lovableproject.com/' failed: 
+an @ PreviewProvider-BG_pe1nb.js:5
+PreviewProvider-BG_pe1nb.js:5 WebSocket connection to 'wss://d6426161-1a27-4c21-bca6-1f87f536a461.lovableproject.com/' failed: WebSocket is closed before the connection is established.
+wl @ PreviewProvider-BG_pe1nb.js:5
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+vendor-sentry-PkhiCAtt.js:15 [tr-ws] server error Object
+(anonymous) @ vendor-sentry-PkhiCAtt.js:15
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+error @ logger.js:58
+track @ browser.js:106
+Us @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+processHead @ esm-CmXJOaG5.js:3
+pushToMainQueue @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+addItem @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+invoke @ esm-CmXJOaG5.js:3
+invokeSingle @ esm-CmXJOaG5.js:3
+invokeSingle @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+addEvent @ esm-CmXJOaG5.js:3
+track @ esm-CmXJOaG5.js:3
+track @ esm-CmXJOaG5.js:3
+Ze.track @ app-shared--scMTec_.js:104
+handle @ app-shared--scMTec_.js:101
+handle @ app-shared--scMTec_.js:101
+emit @ app-shared--scMTec_.js:101
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+error @ logger.js:58
+track @ browser.js:106
+Us @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+processHead @ esm-CmXJOaG5.js:3
+pushToMainQueue @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+addItem @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+invoke @ esm-CmXJOaG5.js:3
+invokeSingle @ esm-CmXJOaG5.js:3
+invokeSingle @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+addEvent @ esm-CmXJOaG5.js:3
+track @ esm-CmXJOaG5.js:3
+track @ esm-CmXJOaG5.js:3
+Ze.track @ app-shared--scMTec_.js:104
+handle @ app-shared--scMTec_.js:101
+handle @ app-shared--scMTec_.js:101
+emit @ app-shared--scMTec_.js:101
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+error @ logger.js:58
+track @ browser.js:106
+Us @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+processHead @ esm-CmXJOaG5.js:3
+pushToMainQueue @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+addItem @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+invoke @ esm-CmXJOaG5.js:3
+invokeSingle @ esm-CmXJOaG5.js:3
+invokeSingle @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+addEvent @ esm-CmXJOaG5.js:3
+track @ esm-CmXJOaG5.js:3
+track @ esm-CmXJOaG5.js:3
+Ze.track @ app-shared--scMTec_.js:104
+handle @ app-shared--scMTec_.js:101
+handle @ app-shared--scMTec_.js:101
+emit @ app-shared--scMTec_.js:101
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+error @ logger.js:58
+track @ browser.js:106
+Us @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+processHead @ esm-CmXJOaG5.js:3
+pushToMainQueue @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+addItem @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+invoke @ esm-CmXJOaG5.js:3
+invokeSingle @ esm-CmXJOaG5.js:3
+invokeSingle @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+addEvent @ esm-CmXJOaG5.js:3
+track @ esm-CmXJOaG5.js:3
+track @ esm-CmXJOaG5.js:3
+Ze.track @ app-shared--scMTec_.js:104
+handle @ app-shared--scMTec_.js:101
+handle @ app-shared--scMTec_.js:101
+emit @ app-shared--scMTec_.js:101
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+error @ logger.js:58
+track @ browser.js:106
+Us @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+processHead @ esm-CmXJOaG5.js:3
+pushToMainQueue @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+addItem @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+invoke @ esm-CmXJOaG5.js:3
+invokeSingle @ esm-CmXJOaG5.js:3
+invokeSingle @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+addEvent @ esm-CmXJOaG5.js:3
+track @ esm-CmXJOaG5.js:3
+track @ esm-CmXJOaG5.js:3
+Ze.track @ app-shared--scMTec_.js:104
+handle @ app-shared--scMTec_.js:101
+handle @ app-shared--scMTec_.js:101
+emit @ app-shared--scMTec_.js:101
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+error @ logger.js:58
+track @ browser.js:106
+Us @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+processHead @ esm-CmXJOaG5.js:3
+pushToMainQueue @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+addItem @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+invoke @ esm-CmXJOaG5.js:3
+invokeSingle @ esm-CmXJOaG5.js:3
+invokeSingle @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+addEvent @ esm-CmXJOaG5.js:3
+track @ esm-CmXJOaG5.js:3
+track @ esm-CmXJOaG5.js:3
+Ze.track @ app-shared--scMTec_.js:104
+handle @ app-shared--scMTec_.js:101
+handle @ app-shared--scMTec_.js:101
+emit @ app-shared--scMTec_.js:101
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+error @ logger.js:58
+track @ browser.js:106
+Us @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+processHead @ esm-CmXJOaG5.js:3
+pushToMainQueue @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+addItem @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+invoke @ esm-CmXJOaG5.js:3
+invokeSingle @ esm-CmXJOaG5.js:3
+invokeSingle @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+addEvent @ esm-CmXJOaG5.js:3
+track @ esm-CmXJOaG5.js:3
+track @ esm-CmXJOaG5.js:3
+Ze.track @ app-shared--scMTec_.js:104
+handle @ app-shared--scMTec_.js:101
+handle @ app-shared--scMTec_.js:101
+emit @ app-shared--scMTec_.js:101
+vendor-sentry-PkhiCAtt.js:15 Failed to load health check brief Object
+(anonymous) @ vendor-sentry-PkhiCAtt.js:15
+(anonymous) @ registry-9cxRuFBF.js:2
+Qn @ vendor-react-Fx2PtaaM.js:8
+Ka @ vendor-react-Fx2PtaaM.js:8
+Ka @ vendor-react-Fx2PtaaM.js:8
+Ka @ vendor-react-Fx2PtaaM.js:8
+Ka @ vendor-react-Fx2PtaaM.js:8
+Ka @ vendor-react-Fx2PtaaM.js:8
+Ka @ vendor-react-Fx2PtaaM.js:8
+Ka @ vendor-react-Fx2PtaaM.js:8
+Ka @ vendor-react-Fx2PtaaM.js:8
+Ka @ vendor-react-Fx2PtaaM.js:8
+Ka @ vendor-react-Fx2PtaaM.js:8
+Ka @ vendor-react-Fx2PtaaM.js:8
+Ka @ vendor-react-Fx2PtaaM.js:8
+Ka @ vendor-react-Fx2PtaaM.js:8
+Ka @ vendor-react-Fx2PtaaM.js:8
+Ka @ vendor-react-Fx2PtaaM.js:8
+Ka @ vendor-react-Fx2PtaaM.js:8
+Ka @ vendor-react-Fx2PtaaM.js:8
+Ka @ vendor-react-Fx2PtaaM.js:8
+Ka @ vendor-react-Fx2PtaaM.js:8
+Ka @ vendor-react-Fx2PtaaM.js:8
+Ka @ vendor-react-Fx2PtaaM.js:8
+Ka @ vendor-react-Fx2PtaaM.js:8
+Ka @ vendor-react-Fx2PtaaM.js:8
+Ka @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+vendor-sentry-PkhiCAtt.js:15 [perf] mark editor:mobile-content-mounted @ 8105534.0ms
+vendor-sentry-PkhiCAtt.js:15 [perf] measure editor:trunk:to-mobile-content: 6520657.1ms
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+error @ logger.js:58
+track @ browser.js:106
+Us @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+processHead @ esm-CmXJOaG5.js:3
+pushToMainQueue @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+addItem @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+invoke @ esm-CmXJOaG5.js:3
+invokeSingle @ esm-CmXJOaG5.js:3
+invokeSingle @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+addEvent @ esm-CmXJOaG5.js:3
+track @ esm-CmXJOaG5.js:3
+track @ esm-CmXJOaG5.js:3
+Ze.track @ app-shared--scMTec_.js:104
+handle @ app-shared--scMTec_.js:101
+handle @ app-shared--scMTec_.js:101
+emit @ app-shared--scMTec_.js:101
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+error @ logger.js:58
+track @ browser.js:106
+Us @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+processHead @ esm-CmXJOaG5.js:3
+pushToMainQueue @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+addItem @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+invoke @ esm-CmXJOaG5.js:3
+invokeSingle @ esm-CmXJOaG5.js:3
+invokeSingle @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+addEvent @ esm-CmXJOaG5.js:3
+track @ esm-CmXJOaG5.js:3
+track @ esm-CmXJOaG5.js:3
+Ze.track @ app-shared--scMTec_.js:104
+handle @ app-shared--scMTec_.js:101
+handle @ app-shared--scMTec_.js:101
+emit @ app-shared--scMTec_.js:101
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+error @ logger.js:58
+track @ browser.js:106
+Us @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+processHead @ esm-CmXJOaG5.js:3
+pushToMainQueue @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+addItem @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+invoke @ esm-CmXJOaG5.js:3
+invokeSingle @ esm-CmXJOaG5.js:3
+invokeSingle @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+addEvent @ esm-CmXJOaG5.js:3
+track @ esm-CmXJOaG5.js:3
+track @ esm-CmXJOaG5.js:3
+Ze.track @ app-shared--scMTec_.js:104
+handle @ app-shared--scMTec_.js:101
+handle @ app-shared--scMTec_.js:101
+emit @ app-shared--scMTec_.js:101
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+error @ logger.js:58
+track @ browser.js:106
+Us @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+processHead @ esm-CmXJOaG5.js:3
+pushToMainQueue @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+addItem @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+invoke @ esm-CmXJOaG5.js:3
+invokeSingle @ esm-CmXJOaG5.js:3
+invokeSingle @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+addEvent @ esm-CmXJOaG5.js:3
+track @ esm-CmXJOaG5.js:3
+track @ esm-CmXJOaG5.js:3
+Ze.track @ app-shared--scMTec_.js:104
+handle @ app-shared--scMTec_.js:101
+handle @ app-shared--scMTec_.js:101
+emit @ app-shared--scMTec_.js:101
+pt.ispot.tv/v2/TC-12271-2.gif?app=web&type=sitevisit&rnd=1791105152332:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+o4506071217143808.ingest.us.sentry.io/api/4506071220944896/envelope/?sentry_version=7&sentry_key=58ff8fddcbe1303f19bc19fbfed46f0f&sentry_client=sentry.javascript.browser%2F10.70.0:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+o4506071217143808.ingest.us.sentry.io/api/4506071220944896/envelope/?sentry_version=7&sentry_key=58ff8fddcbe1303f19bc19fbfed46f0f&sentry_client=sentry.javascript.browser%2F10.70.0:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+o4506071217143808.ingest.us.sentry.io/api/4506071220944896/envelope/?sentry_version=7&sentry_key=58ff8fddcbe1303f19bc19fbfed46f0f&sentry_client=sentry.javascript.browser%2F10.70.0:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+vendor-sentry-PkhiCAtt.js:15 [perf] mark editor:nav-start @ 8201502.9ms
+vendor-sentry-PkhiCAtt.js:15 [perf] measure editor:nav:click-to-start: 71.0ms
+pt.ispot.tv/v2/TC-12271-2.gif?app=web&type=sitevisit&rnd=1791105214705:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+o4506071217143808.ingest.us.sentry.io/api/4506071220944896/envelope/?sentry_version=7&sentry_key=58ff8fddcbe1303f19bc19fbfed46f0f&sentry_client=sentry.javascript.browser%2F10.70.0:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+o4506071217143808.ingest.us.sentry.io/api/4506071220944896/envelope/?sentry_version=7&sentry_key=58ff8fddcbe1303f19bc19fbfed46f0f&sentry_client=sentry.javascript.browser%2F10.70.0:1  Failed to load resource: net::ERR_BLOCKED_BY_CLIENT
+vendor-sentry-PkhiCAtt.js:15 [perf] mark editor:loader-flags-settled @ 8202108.0ms
+vendor-sentry-PkhiCAtt.js:15 [perf] mark editor:loader-shell-settled @ 8202108.7ms
+vendor-sentry-PkhiCAtt.js:15 [perf] mark editor:desktop-content-mounted @ 8202569.8ms
+vendor-sentry-PkhiCAtt.js:15 [perf] measure editor:trunk:to-desktop-content: 1066.9ms
+vendor-sentry-PkhiCAtt.js:15 [perf] measure editor:chat:nav-to-ws-connect: 1075.4ms
+vendor-sentry-PkhiCAtt.js:15 [perf] measure editor:chat:nav-to-first-history: 1075.9ms
+vendor-sentry-PkhiCAtt.js:15 [perf] measure editor:chat:ws-to-first-data: 0.5ms
+vendor-sentry-PkhiCAtt.js:15 [perf] mark editor:permissions-resolved @ 8202585.8ms
+vendor-sentry-PkhiCAtt.js:15 [perf] measure editor:trunk:to-permissions-resolved: 1082.9ms
+vendor-sentry-PkhiCAtt.js:15 [perf] mark editor:shell-rendered @ 8202587.1ms
+vendor-sentry-PkhiCAtt.js:15 [perf] measure editor:trunk:to-shell-rendered: 1084.3ms
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+vendor-sentry-PkhiCAtt.js:15 [perf] measure editor:chat:nav-to-initial-data: 1377.6ms
+vendor-sentry-PkhiCAtt.js:15 [perf] measure editor:chat:fetch-to-data: 302.5ms
+vendor-sentry-PkhiCAtt.js:15 [perf] measure editor:chat:fetch-to-response: 301.6ms
+vendor-sentry-PkhiCAtt.js:15 [perf] measure editor:chat:response-to-data: 0.9ms
+vendor-sentry-PkhiCAtt.js:15 [perf] measure editor:chat:nav-to-interactive: 1469.3ms
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+vendor-sentry-PkhiCAtt.js:15 [perf] mark editor:project-data-first @ 8203486.1ms
+vendor-sentry-PkhiCAtt.js:15 [perf] measure editor:project:nav-to-data: 1983.3ms
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+vendor-sentry-PkhiCAtt.js:15 [perf] measure editor:chat:nav-to-visible: 2469.1ms
+vendor-sentry-PkhiCAtt.js:15 [perf] measure editor:chat:data-to-visible: 1393.2ms
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+vendor-sentry-PkhiCAtt.js:15 [perf] measure editor:preview:nav-to-visible: 5199.2ms
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+PreviewProvider-BG_pe1nb.js:5 WebSocket connection to 'wss://d6426161-1a27-4c21-bca6-1f87f536a461.lovableproject.com/' failed: WebSocket is closed before the connection is established.
+wl @ PreviewProvider-BG_pe1nb.js:5
+ProjectEditorLayout-BQ28JJhY.js:2 WebSocket connection to 'wss://d6426161-1a27-4c21-bca6-1f87f536a461.lovableproject.com/_sandbox/code/ws' failed: WebSocket is closed before the connection is established.
+(anonymous) @ ProjectEditorLayout-BQ28JJhY.js:2
+vendor-sentry-PkhiCAtt.js:15 Code WebSocket error Object
+(anonymous) @ vendor-sentry-PkhiCAtt.js:15
+vendor-sentry-PkhiCAtt.js:15 [perf] mark editor:mobile-content-mounted @ 8213844.9ms
+vendor-sentry-PkhiCAtt.js:15 [perf] measure editor:trunk:to-mobile-content: 12342.0ms
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+error @ logger.js:58
+track @ browser.js:106
+Us @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+processHead @ esm-CmXJOaG5.js:3
+pushToMainQueue @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+addItem @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+invoke @ esm-CmXJOaG5.js:3
+invokeSingle @ esm-CmXJOaG5.js:3
+invokeSingle @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+addEvent @ esm-CmXJOaG5.js:3
+track @ esm-CmXJOaG5.js:3
+track @ esm-CmXJOaG5.js:3
+Ze.track @ app-shared--scMTec_.js:104
+handle @ app-shared--scMTec_.js:101
+handle @ app-shared--scMTec_.js:101
+emit @ app-shared--scMTec_.js:101
+await in emit
+emit @ app-shared--scMTec_.js:101
+(anonymous) @ PreviewProvider-BG_pe1nb.js:5
+(anonymous) @ PreviewProvider-BG_pe1nb.js:5
+Qn @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+error @ logger.js:58
+track @ browser.js:106
+Us @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+processHead @ esm-CmXJOaG5.js:3
+pushToMainQueue @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+addItem @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+invoke @ esm-CmXJOaG5.js:3
+invokeSingle @ esm-CmXJOaG5.js:3
+invokeSingle @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+addEvent @ esm-CmXJOaG5.js:3
+track @ esm-CmXJOaG5.js:3
+track @ esm-CmXJOaG5.js:3
+Ze.track @ app-shared--scMTec_.js:104
+handle @ app-shared--scMTec_.js:101
+handle @ app-shared--scMTec_.js:101
+emit @ app-shared--scMTec_.js:101
+await in emit
+emit @ app-shared--scMTec_.js:101
+(anonymous) @ PreviewProvider-BG_pe1nb.js:5
+(anonymous) @ PreviewProvider-BG_pe1nb.js:5
+(anonymous) @ PreviewProvider-BG_pe1nb.js:5
+Qn @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+error @ logger.js:58
+track @ browser.js:106
+Us @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+processHead @ esm-CmXJOaG5.js:3
+pushToMainQueue @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+addItem @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+invoke @ esm-CmXJOaG5.js:3
+invokeSingle @ esm-CmXJOaG5.js:3
+invokeSingle @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+addEvent @ esm-CmXJOaG5.js:3
+track @ esm-CmXJOaG5.js:3
+track @ esm-CmXJOaG5.js:3
+Ze.track @ app-shared--scMTec_.js:104
+handle @ app-shared--scMTec_.js:101
+handle @ app-shared--scMTec_.js:101
+emit @ app-shared--scMTec_.js:101
+await in emit
+emit @ app-shared--scMTec_.js:101
+(anonymous) @ PreviewProvider-BG_pe1nb.js:5
+Qn @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+error @ logger.js:58
+track @ browser.js:106
+Us @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+processHead @ esm-CmXJOaG5.js:3
+pushToMainQueue @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+addItem @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+invoke @ esm-CmXJOaG5.js:3
+invokeSingle @ esm-CmXJOaG5.js:3
+invokeSingle @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+addEvent @ esm-CmXJOaG5.js:3
+track @ esm-CmXJOaG5.js:3
+track @ esm-CmXJOaG5.js:3
+Ze.track @ app-shared--scMTec_.js:104
+handle @ app-shared--scMTec_.js:101
+handle @ app-shared--scMTec_.js:101
+emit @ app-shared--scMTec_.js:101
+await in emit
+emit @ app-shared--scMTec_.js:101
+(anonymous) @ usePreviewReloadEmitter-C-_T2QY6.js:1
+reload @ PreviewProvider-BG_pe1nb.js:5
+Et @ PreviewProvider-BG_pe1nb.js:5
+(anonymous) @ PreviewProvider-BG_pe1nb.js:5
+Qn @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+error @ logger.js:58
+track @ browser.js:106
+Us @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+processHead @ esm-CmXJOaG5.js:3
+pushToMainQueue @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+addItem @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+invoke @ esm-CmXJOaG5.js:3
+invokeSingle @ esm-CmXJOaG5.js:3
+invokeSingle @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+addEvent @ esm-CmXJOaG5.js:3
+track @ esm-CmXJOaG5.js:3
+track @ esm-CmXJOaG5.js:3
+Ze.track @ app-shared--scMTec_.js:104
+handle @ app-shared--scMTec_.js:101
+handle @ app-shared--scMTec_.js:101
+emit @ app-shared--scMTec_.js:101
+await in emit
+emit @ app-shared--scMTec_.js:101
+(anonymous) @ PreviewProvider-BG_pe1nb.js:1
+Qn @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+gy @ vendor-react-Fx2PtaaM.js:8
+At @ vendor-react-Fx2PtaaM.js:8
+lovable.js:97 ❤️ Lovable Script — v1.9.2
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+error @ logger.js:58
+track @ browser.js:106
+Us @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+processHead @ esm-CmXJOaG5.js:3
+pushToMainQueue @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+addItem @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+invoke @ esm-CmXJOaG5.js:3
+invokeSingle @ esm-CmXJOaG5.js:3
+invokeSingle @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+addEvent @ esm-CmXJOaG5.js:3
+track @ esm-CmXJOaG5.js:3
+track @ esm-CmXJOaG5.js:3
+Ze.track @ app-shared--scMTec_.js:104
+handle @ app-shared--scMTec_.js:101
+handle @ app-shared--scMTec_.js:101
+emit @ app-shared--scMTec_.js:101
+await in emit
+emit @ app-shared--scMTec_.js:101
+(anonymous) @ PreviewProvider-BG_pe1nb.js:5
+dd @ PreviewProvider-BG_pe1nb.js:5
+f @ PreviewProvider-BG_pe1nb.js:5
+r @ vendor-sentry-PkhiCAtt.js:15
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+error @ logger.js:58
+track @ browser.js:106
+Us @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+processHead @ esm-CmXJOaG5.js:3
+pushToMainQueue @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+addItem @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+invoke @ esm-CmXJOaG5.js:3
+invokeSingle @ esm-CmXJOaG5.js:3
+invokeSingle @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+addEvent @ esm-CmXJOaG5.js:3
+track @ esm-CmXJOaG5.js:3
+track @ esm-CmXJOaG5.js:3
+Ze.track @ app-shared--scMTec_.js:104
+handle @ app-shared--scMTec_.js:101
+handle @ app-shared--scMTec_.js:101
+emit @ app-shared--scMTec_.js:101
+await in emit
+emit @ app-shared--scMTec_.js:101
+(anonymous) @ PreviewProvider-BG_pe1nb.js:5
+(anonymous) @ PreviewProvider-BG_pe1nb.js:5
+dd @ PreviewProvider-BG_pe1nb.js:5
+f @ PreviewProvider-BG_pe1nb.js:5
+r @ vendor-sentry-PkhiCAtt.js:15
+lovable.js:97 ❤️ Lovable Script — v1.9.2
+logger.js:64  RS SDK - Spotify Pixel  No Spotify Pixel mapped event found. Aborting
+logBase @ logger.js:64
+error @ logger.js:58
+track @ browser.js:106
+Us @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+processHead @ esm-CmXJOaG5.js:3
+pushToMainQueue @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+addItem @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+(anonymous) @ esm-CmXJOaG5.js:3
+invoke @ esm-CmXJOaG5.js:3
+invokeSingle @ esm-CmXJOaG5.js:3
+invokeSingle @ esm-CmXJOaG5.js:3
+enqueue @ esm-CmXJOaG5.js:3
+addEvent @ esm-CmXJOaG5.js:3
+track @ esm-CmXJOaG5.js:3
+track @ esm-CmXJOaG5.js:3
+Ze.track @ app-shared--scMTec_.js:104
+handle @ app-shared--scMTec_.js:101
+handle @ app-shared--scMTec_.js:101
+emit @ app-shared--scMTec_.js:101
+await in emit
+emit @ app-shared--scMTec_.js:101
+(anonymous) @ PreviewProvider-BG_pe1nb.js:5
+ld @ PreviewProvider-BG_pe1nb.js:5
+f @ PreviewProvider-BG_pe1nb.js:5
+r @ vendor-sentry-PkhiCAtt.js:15
+A.onmessage @ PreviewProvider-BG_pe1nb.js:5
+postMessage
+Dt @ lovable.js:38
+L @ lovable.js:30
+r @ lovable.js:35

@@ -1,0 +1,5 @@
+- [Java 21 runtime selection](java21-runtime.md) — derive `JAVA_HOME` from the JDK 21 binary; the `java-graalvm22.3` module exposes JDK 19 here.
+- [Maven development working directory](maven-artifact-dev-workdir.md) — managed API development commands run inside the artifact directory, so use its local pom.
+- [Replit production PostgreSQL](replit-production-postgresql.md) — Publish owns the managed production schema; keep Flyway in development and use Replit `PG*` settings in production.
+- [PostgreSQL doctor search](postgresql-doctor-search.md) — Use typed empty-string filter sentinels and `EXISTS` for to-many filters in pageable text search.
+- [Bootstrap test secret isolation](bootstrap-test-secret-isolation.md) — Isolate Spring tests from shared admin bootstrap Secrets to prevent real credentials entering fixtures.

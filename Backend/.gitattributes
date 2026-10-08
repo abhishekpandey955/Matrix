@@ -1,0 +1,2 @@
+artifacts/api-server/target/medicare-api.jar filter=lfs diff=lfs merge=lfs -text
+.conversation/attached_assets/MediCare-Backend_(1)_1791106212803.zip filter=lfs diff=lfs merge=lfs -text

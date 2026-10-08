@@ -1,0 +1,4 @@
+spring:
+  flyway:
+    # Flyway is disabled in production — schema is managed manually via migrations applied before each deploy.
+    enabled: false
