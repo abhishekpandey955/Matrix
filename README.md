@@ -6,7 +6,7 @@ Patients find doctors, book appointments, and view prescriptions.
 Doctors manage availability, appointments, and write prescriptions.  
 Admins approve doctor accounts, manage appointments, and monitor statistics.
 
-> **Galgotias University Project** — Built by Abhishek Pandey and team.
+> **Galgotias University Project** — Built by TEAM MATRIX
 
 ---
 
