@@ -960,9 +960,12 @@ docker compose down -v
 
 > **TEAM MATRIX** — Galgotias University
 
-| Name | Role |
-|---|---|
-| *[Add team member names and roles here]* | |
+| Name |
+|---|
+| SHARWAN |
+| ABHISHEK |
+| UMMASHANKAR |
+| AYSUH |
 
 ---
 
